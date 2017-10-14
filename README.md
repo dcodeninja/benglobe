@@ -1,2 +1,2 @@
-# benglobe
-Benglobe official website
+# benglobe-official
+Official website of benglobe
